@@ -1,0 +1,23 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans|Montserrat);
+
+*{
+    font-family: 'Open Sans', sans-serif !important;    
+    color: #088A08;
+}
+
+body {
+    background-image: url('amigos wallpaper.jpg');
+
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: auto;  
+    text-align: right;
+}
+
+#tblList thead{
+    background: grey;
+    color: #fff;
+} 
